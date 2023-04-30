@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CrudOperation.DAL
 {
-    public class Update
+    public class Update : IUpdate
     {
         public int UpdateEventDetail(int EventID, string EventName)
         {

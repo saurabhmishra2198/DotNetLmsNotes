@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace CrudOperation.DAL
 {
-    public class Insert
+    public class Insert : IInsert
     {
         public int InsertEventDetail(int EventID, string EventName, decimal EventPrice, string EventDate)
         {

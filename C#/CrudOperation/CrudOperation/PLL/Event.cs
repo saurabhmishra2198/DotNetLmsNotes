@@ -12,7 +12,7 @@ namespace CrudOperation.PLL
 {
     public partial class EventDate : Form
     {
-        EventBLL eventBLL = new EventBLL();
+        readonly EventBLL eventBLL = new EventBLL();
         public int result;
         public int eventId;
         public string eventName;
@@ -41,8 +41,6 @@ namespace CrudOperation.PLL
             eventPrice = Convert.ToDecimal(EventPrice.Text);
             eventDateTime = EventDateTime.Text;
         }
-        
-
         private void Insert_Click(object sender, EventArgs e)
         {
             GetEventData();
@@ -88,10 +86,10 @@ namespace CrudOperation.PLL
             UpdateDataGridView();
             DefaultFormData();
         }
-
         private void Display_Click(object sender, EventArgs e)
         {
             UpdateDataGridView();
+            DefaultFormData();
         }
     }
 }

@@ -14,7 +14,7 @@ namespace CrudOperation.BLL
         {
             try
             {
-                Display displayDAL = new Display();
+                IDisplay displayDAL = new Display();
                 return displayDAL.ReadEventDetails();
             }
             catch
@@ -26,7 +26,7 @@ namespace CrudOperation.BLL
         {
             try
             {
-                Insert insertDAL = new Insert();
+                IInsert insertDAL = new Insert();
                 return insertDAL.InsertEventDetail(EventID,EventName,EventPrice,EventDate);
             }
             catch
@@ -38,7 +38,7 @@ namespace CrudOperation.BLL
         {
             try
             {
-                Update updateDAL = new Update();
+                IUpdate updateDAL = new Update();
                 return updateDAL.UpdateEventDetail(EventID, EventName);
             }
             catch
@@ -50,7 +50,7 @@ namespace CrudOperation.BLL
         {
             try
             {
-                Delete deleteDAL = new Delete();
+                IDelete deleteDAL = new Delete();
                 return deleteDAL.DeleteEventDetail(EventID);
             }
             catch

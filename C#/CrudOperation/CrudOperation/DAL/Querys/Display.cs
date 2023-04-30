@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CrudOperation.DAL
 {
-    public class Display
+    public class Display : IDisplay
     {
         DataTable dataTable = new DataTable();
         public DataTable ReadEventDetails()

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CrudOperation.DAL
 {
-    public class Delete
+    public class Delete : IDelete
     {
         public int DeleteEventDetail(int EventID)
         {
