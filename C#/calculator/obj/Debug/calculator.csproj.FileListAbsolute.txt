@@ -1,0 +1,8 @@
+E:\SimformLearning\C#\calculator\bin\Debug\calculator.exe.config
+E:\SimformLearning\C#\calculator\bin\Debug\calculator.exe
+E:\SimformLearning\C#\calculator\bin\Debug\calculator.pdb
+E:\SimformLearning\C#\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+E:\SimformLearning\C#\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+E:\SimformLearning\C#\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+E:\SimformLearning\C#\calculator\obj\Debug\calculator.exe
+E:\SimformLearning\C#\calculator\obj\Debug\calculator.pdb

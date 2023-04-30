@@ -1,0 +1,15 @@
+E:\SimformLearning\C#\Practical-8\Practical-8\bin\Debug\net6.0\Practical-8.exe
+E:\SimformLearning\C#\Practical-8\Practical-8\bin\Debug\net6.0\Practical-8.deps.json
+E:\SimformLearning\C#\Practical-8\Practical-8\bin\Debug\net6.0\Practical-8.runtimeconfig.json
+E:\SimformLearning\C#\Practical-8\Practical-8\bin\Debug\net6.0\Practical-8.dll
+E:\SimformLearning\C#\Practical-8\Practical-8\bin\Debug\net6.0\Practical-8.pdb
+E:\SimformLearning\C#\Practical-8\Practical-8\obj\Debug\net6.0\Practical-8.csproj.AssemblyReference.cache
+E:\SimformLearning\C#\Practical-8\Practical-8\obj\Debug\net6.0\Practical-8.GeneratedMSBuildEditorConfig.editorconfig
+E:\SimformLearning\C#\Practical-8\Practical-8\obj\Debug\net6.0\Practical-8.AssemblyInfoInputs.cache
+E:\SimformLearning\C#\Practical-8\Practical-8\obj\Debug\net6.0\Practical-8.AssemblyInfo.cs
+E:\SimformLearning\C#\Practical-8\Practical-8\obj\Debug\net6.0\Practical-8.csproj.CoreCompileInputs.cache
+E:\SimformLearning\C#\Practical-8\Practical-8\obj\Debug\net6.0\Practical-8.dll
+E:\SimformLearning\C#\Practical-8\Practical-8\obj\Debug\net6.0\refint\Practical-8.dll
+E:\SimformLearning\C#\Practical-8\Practical-8\obj\Debug\net6.0\Practical-8.pdb
+E:\SimformLearning\C#\Practical-8\Practical-8\obj\Debug\net6.0\Practical-8.genruntimeconfig.cache
+E:\SimformLearning\C#\Practical-8\Practical-8\obj\Debug\net6.0\ref\Practical-8.dll

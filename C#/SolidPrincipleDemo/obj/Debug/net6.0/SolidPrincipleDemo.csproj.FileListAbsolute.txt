@@ -1,0 +1,15 @@
+E:\SimformLearning\C#\SolidPrincipleDemo\bin\Debug\net6.0\SolidPrincipleDemo.exe
+E:\SimformLearning\C#\SolidPrincipleDemo\bin\Debug\net6.0\SolidPrincipleDemo.deps.json
+E:\SimformLearning\C#\SolidPrincipleDemo\bin\Debug\net6.0\SolidPrincipleDemo.runtimeconfig.json
+E:\SimformLearning\C#\SolidPrincipleDemo\bin\Debug\net6.0\SolidPrincipleDemo.dll
+E:\SimformLearning\C#\SolidPrincipleDemo\bin\Debug\net6.0\SolidPrincipleDemo.pdb
+E:\SimformLearning\C#\SolidPrincipleDemo\obj\Debug\net6.0\SolidPrincipleDemo.csproj.AssemblyReference.cache
+E:\SimformLearning\C#\SolidPrincipleDemo\obj\Debug\net6.0\SolidPrincipleDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\SimformLearning\C#\SolidPrincipleDemo\obj\Debug\net6.0\SolidPrincipleDemo.AssemblyInfoInputs.cache
+E:\SimformLearning\C#\SolidPrincipleDemo\obj\Debug\net6.0\SolidPrincipleDemo.AssemblyInfo.cs
+E:\SimformLearning\C#\SolidPrincipleDemo\obj\Debug\net6.0\SolidPrincipleDemo.csproj.CoreCompileInputs.cache
+E:\SimformLearning\C#\SolidPrincipleDemo\obj\Debug\net6.0\SolidPrincipleDemo.dll
+E:\SimformLearning\C#\SolidPrincipleDemo\obj\Debug\net6.0\refint\SolidPrincipleDemo.dll
+E:\SimformLearning\C#\SolidPrincipleDemo\obj\Debug\net6.0\SolidPrincipleDemo.pdb
+E:\SimformLearning\C#\SolidPrincipleDemo\obj\Debug\net6.0\SolidPrincipleDemo.genruntimeconfig.cache
+E:\SimformLearning\C#\SolidPrincipleDemo\obj\Debug\net6.0\ref\SolidPrincipleDemo.dll

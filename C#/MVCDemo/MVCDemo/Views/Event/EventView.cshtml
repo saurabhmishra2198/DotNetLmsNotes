@@ -1,0 +1,60 @@
+﻿@model MVCDemo.Models.Event
+
+@{
+    ViewData["Title"] = "EventView";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center fst-italic">Event Management System</h1>
+
+<hr />
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+            <form asp-action="EventView">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="EventId" class="control-label">Event Id</label>
+                    <input asp-for="EventId" class="form-control" name="EventId" placeholder="Event Id" />
+                    <span asp-validation-for="EventId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="EventName" class="control-label">Event Name</label>
+                    <input asp-for="EventName" class="form-control" name="EventName" placeholder="Event Name" />
+                    <span asp-validation-for="EventName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="EventType" class="control-label">Event Type</label>
+                    <select asp-for="EventType" name="EventType" class="form-select">
+                      <option selected>Select Option</option>
+                      <option value="Cricket">Cricket</option>
+                      <option value="Music">Music</option>
+                      <option value="Poster Making">Poster Making</option>
+                    </select>
+                    <span asp-validation-for="EventType" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="EventDescription" class="control-label">Event Description</label>
+                    <textarea asp-for="EventDescription" name="Description" class="form-control" placeholder="Description"> </textarea>
+                    <span asp-validation-for="EventDescription" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="EventPrice" class="control-label">Event Price</label>
+                    <input asp-for="EventPrice" name="Price" class="form-control" placeholder="Event Price" />
+                    <span asp-validation-for="EventPrice" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Register" class="btn btn-primary my-3" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

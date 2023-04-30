@@ -1,0 +1,44 @@
+1: git init
+2: git remote add origin https://github.com/saurabh123-text/GlassFilm.git
+3: git add .
+4: git commit -m "first commit"
+5: git branch -m main
+6: git push -u origin main
+
+Filed error come
+7: git push -u origin main -f
+
+
+Pull Request of project
+1. select project (inside project create fork)
+2. git clone https://github.com/saurabh123-text/taskeasy.git
+3. dir
+4. cd taskeasy
+5. git remote add origin https://github.com/saurabh123-text/taskeasy.git
+6. git remote -v
+7. git remote add upstrem git@github.com:priteshyadav444/taskeasy.git
+8. git remote -v
+9. git log
+10. git add .
+11. git commit -m "url updated in readme file"
+12. git branch -m master
+13. git push origin master
+14. Go to github and cloan the project
+
+drop commit:
+git rebase -i HEAD~3
+pick -> drop
+git add .
+git commit
+git rebase --continue
+git push
+
+cherry-pick
+go to feature branch copy commit id.
+checkout to master.
+git cherry-pick commit-id
+git commit
+git push
+
+Rebase
+git rebase the some commit one branch to another branch.
