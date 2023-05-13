@@ -50,8 +50,11 @@
     <Compile Include="DAL\Connection\Connection.cs" />
     <Compile Include="DAL\Querys\Delete.cs" />
     <Compile Include="DAL\Querys\Display.cs" />
-    <Compile Include="DAL\Querys\IInsert.cs" />
-    <Compile Include="DAL\Interfaces\Insert.cs" />
+    <Compile Include="DAL\Interfaces\IDelete.cs" />
+    <Compile Include="DAL\Interfaces\IDisplay.cs" />
+    <Compile Include="DAL\Interfaces\IInsert.cs" />
+    <Compile Include="DAL\Querys\Insert.cs" />
+    <Compile Include="DAL\Interfaces\IUpdate.cs" />
     <Compile Include="DAL\Querys\Update.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
