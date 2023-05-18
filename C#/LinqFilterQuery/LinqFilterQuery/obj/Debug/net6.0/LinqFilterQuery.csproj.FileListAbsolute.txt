@@ -1,0 +1,17 @@
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\bin\Debug\net6.0\LinqFilterQuery.exe
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\bin\Debug\net6.0\LinqFilterQuery.deps.json
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\bin\Debug\net6.0\LinqFilterQuery.runtimeconfig.json
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\bin\Debug\net6.0\LinqFilterQuery.dll
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\bin\Debug\net6.0\LinqFilterQuery.pdb
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\bin\Debug\net6.0\ConsoleTables.dll
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\obj\Debug\net6.0\LinqFilterQuery.csproj.AssemblyReference.cache
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\obj\Debug\net6.0\LinqFilterQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\obj\Debug\net6.0\LinqFilterQuery.AssemblyInfoInputs.cache
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\obj\Debug\net6.0\LinqFilterQuery.AssemblyInfo.cs
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\obj\Debug\net6.0\LinqFilterQuery.csproj.CoreCompileInputs.cache
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\obj\Debug\net6.0\LinqFilterQuery.csproj.CopyComplete
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\obj\Debug\net6.0\LinqFilterQuery.dll
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\obj\Debug\net6.0\refint\LinqFilterQuery.dll
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\obj\Debug\net6.0\LinqFilterQuery.pdb
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\obj\Debug\net6.0\LinqFilterQuery.genruntimeconfig.cache
+D:\SimformLearning\C#\LinqFilterQuery\LinqFilterQuery\obj\Debug\net6.0\ref\LinqFilterQuery.dll

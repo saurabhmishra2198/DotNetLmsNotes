@@ -1,0 +1,15 @@
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\bin\Debug\DBFirstDemo.exe.config
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\bin\Debug\DBFirstDemo.exe
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\bin\Debug\DBFirstDemo.pdb
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\bin\Debug\ConsoleTables.dll
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\bin\Debug\EntityFramework.dll
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\bin\Debug\ConsoleTables.pdb
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\bin\Debug\EntityFramework.xml
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.AssemblyReference.cache
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.SuggestedBindingRedirects.cache
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.CoreCompileInputs.cache
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\obj\Debug\DBFirstDemo.csproj.CopyComplete
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\obj\Debug\DBFirstDemo.exe
+D:\SimformLearning\C#\EntityFramework\DBFirstDemo\DBFirstDemo\obj\Debug\DBFirstDemo.pdb

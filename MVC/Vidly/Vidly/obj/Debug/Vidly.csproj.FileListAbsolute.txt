@@ -77,3 +77,11 @@ D:\SimformLearning\MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cach
 D:\SimformLearning\MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 D:\SimformLearning\MVC\Vidly\Vidly\obj\Debug\Vidly.dll
 D:\SimformLearning\MVC\Vidly\Vidly\obj\Debug\Vidly.pdb
+D:\SimformLearning\MVC\Vidly\Vidly\bin\EntityFramework.dll
+D:\SimformLearning\MVC\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+D:\SimformLearning\MVC\Vidly\Vidly\bin\EntityFramework.xml
+D:\SimformLearning\MVC\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+D:\SimformLearning\MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SimformLearning\MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SimformLearning\MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SimformLearning\MVC\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
